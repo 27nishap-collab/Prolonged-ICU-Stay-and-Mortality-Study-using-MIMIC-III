@@ -1,7 +1,7 @@
 # Do Clinical Notes Improve Early Prediction of Mortality or Prolonged ICU Stay?
 
 Code for the study *"Do Clinical Notes Improve Early Prediction of Mortality or Prolonged ICU Stay?
-Mostly Against a Thin Baseline"* (manuscript in preparation).
+Mostly Against a Thin Baseline"* (**Nisha Padhi** and **Harman Brah, MD**).
 
 The study starts from Weissman et al. (2018), who found that adding clinical notes from the first
 48 hours to 18 structured variables improved the prediction of in-hospital death or an ICU stay of
